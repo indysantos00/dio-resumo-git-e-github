@@ -17,5 +17,5 @@ Repositorios para armazenar resumos sobre Git e GitHub do curso versionamento do
 ```
 git init
 ```
-## 🔍 Referências
+## 🔍 Referência
 - [Digital Innocation One] (https://web.dio.me/track/santander-2024-criando-jogos-com-godot)
