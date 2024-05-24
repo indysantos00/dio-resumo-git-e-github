@@ -13,7 +13,7 @@ Repositorios para armazenar resumos sobre Git e GitHub do curso versionamento do
 |-------|--------|
 |Autentificando chave Token e SSH|[resumos](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/3d13d85f-2508-4396-9657-4643d3302c79?back=/track/santander-2024-criando-jogos-com-godot&tab=undefined&moduleId=undefined)
 |Gravando Alterações no Repositorio local| [resumos](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/santander-2024-criando-jogos-com-godot&tab=undefined&moduleId=undefined)|
-
+Acesso ao readme.so | [link](https://readme.so/pt/editor)
 ```
 git init
 ```
